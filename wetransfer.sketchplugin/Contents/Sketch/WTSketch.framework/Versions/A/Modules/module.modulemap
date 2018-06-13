@@ -1,0 +1,6 @@
+framework module WTSketch {
+  umbrella header "WTSketch.h"
+
+  export *
+  module * { export * }
+}
