@@ -13,7 +13,7 @@ Ready to share your big ideas? Install the WeTransfer plugin and choose from the
   4) Copy the link and share it with anyone
   
 ### Installation
-1) Download the WeTransfer plugin
+1) Download the [latest release](../../releases) of the WeTransfer plugin
 2) Double-click the zip file “wetransfer.sketchplugin.zip”
 3) Open up “wetransfer.sketchplugin”
 4) Start sharing
