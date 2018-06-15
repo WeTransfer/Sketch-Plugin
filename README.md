@@ -18,5 +18,8 @@ Ready to share your big ideas? Install the WeTransfer plugin and choose from the
 3) Open up “wetransfer.sketchplugin”
 4) Start sharing
 
+### Known issue on macOS Sierra
+The plugin encounters a bug for users on macOS Sierra. We are working on a fix and will update as soon as possible.
+
 ### Contact:
 Feel free to send an email to sketch@wetransfer.com with any questions, comments or feedback
