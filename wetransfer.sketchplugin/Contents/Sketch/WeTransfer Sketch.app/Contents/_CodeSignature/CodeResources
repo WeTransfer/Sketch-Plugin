@@ -10,23 +10,23 @@
 		</data>
 		<key>Resources/Assets.car</key>
 		<data>
-		xl6hixLojXCeIL5uiepHJu43c0A=
+		ubn7DpmrYG0Z2Ah72mnCLWcLZw8=
 		</data>
 		<key>Resources/Base.lproj/Main.storyboardc/Info.plist</key>
 		<data>
-		aLDCgLAvCgTgI55ZKqXfBSfQ5Dw=
+		fXxTj255v1dXq7wAZ5ARCb20dj8=
 		</data>
 		<key>Resources/Base.lproj/Main.storyboardc/MainMenu.nib</key>
 		<data>
-		s7VZ2j9slDymcNko8xvnGcxBS8E=
+		8wCBJOU9XPEbUFjbjuEWNMq1fOM=
 		</data>
 		<key>Resources/Base.lproj/Main.storyboardc/NSWindowController-B8D-0N-5wS.nib</key>
 		<data>
-		Dm6fm7ePSm9ml8lcgesdSFjpM9o=
+		xzu235ApFCeYPGovCEYxfIiobos=
 		</data>
 		<key>Resources/Base.lproj/Main.storyboardc/XfG-lQ-9wD-view-m2S-Jp-Qdl.nib</key>
 		<data>
-		q+XPwaCZJFGo2vIaNf33n0Gp39I=
+		OkiSDeLyplJmHsQzIHywItCXuMU=
 		</data>
 		<key>Resources/Cartfile</key>
 		<data>
@@ -39,10 +39,10 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			+0hS0zXAZo2kNI9TTmnd+L6GhU8=
+			HI/XEXv/m9qXPErDVJNzS/Z1XOE=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"19ec8cb4e65926eda24d7c61441934bfa121a27d" or cdhash H"fb4852d335c0668da4348f534e69ddf8be86854f"</string>
+			<string>cdhash H"b8d71a77a603da4ca2ebe9487a65bf8baf88c0ce" or cdhash H"1c8fd7117bff9bda973c4ac35493734bf6755ce1"</string>
 		</dict>
 		<key>Frameworks/libswiftAppKit.dylib</key>
 		<dict>
@@ -194,55 +194,55 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			xl6hixLojXCeIL5uiepHJu43c0A=
+			ubn7DpmrYG0Z2Ah72mnCLWcLZw8=
 			</data>
 			<key>hash2</key>
 			<data>
-			cZjDQa/Y5++mOoZ5hj7FcPcezPQCXWAnIZ1dpaMzh5s=
+			0Lf+gnlTrNBB1U0fjpO8LMsvWIpk0/hYoAIXOoDirhA=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/Main.storyboardc/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			aLDCgLAvCgTgI55ZKqXfBSfQ5Dw=
+			fXxTj255v1dXq7wAZ5ARCb20dj8=
 			</data>
 			<key>hash2</key>
 			<data>
-			6Ir97i90lqMPDcevKXsAutTt9BEUW4fYZNCuWGdAMks=
+			/1pcdda8vxtu9//7M6mXPqI+6N93yzMq7NQcGYjgnBo=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/Main.storyboardc/MainMenu.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			s7VZ2j9slDymcNko8xvnGcxBS8E=
+			8wCBJOU9XPEbUFjbjuEWNMq1fOM=
 			</data>
 			<key>hash2</key>
 			<data>
-			NtmCE+kuu3UEjUyPMmYv6HLil97TEbbjob4AwQ+P5hs=
+			QDy1KP1NdHew/O+7qfVum04svM7kBLgfLnFAnEhyMng=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/Main.storyboardc/NSWindowController-B8D-0N-5wS.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Dm6fm7ePSm9ml8lcgesdSFjpM9o=
+			xzu235ApFCeYPGovCEYxfIiobos=
 			</data>
 			<key>hash2</key>
 			<data>
-			dkNQlrmY41PWxCGhuAfUgie282gvNLzwmEc0R0x1UhI=
+			Db3pTJA9dbk21yA8tAsZwUyP+FB8lom/5hb6dJG8bQs=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/Main.storyboardc/XfG-lQ-9wD-view-m2S-Jp-Qdl.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			q+XPwaCZJFGo2vIaNf33n0Gp39I=
+			OkiSDeLyplJmHsQzIHywItCXuMU=
 			</data>
 			<key>hash2</key>
 			<data>
-			Yt94PioL8HoSZPEBkpz0ma8jtP9b70+l1qadcKv4BVs=
+			KQeigyQxvjWZ846/7pSjSatkEQ7r4laFD4sCXgVGfUU=
 			</data>
 		</dict>
 		<key>Resources/Cartfile</key>
