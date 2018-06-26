@@ -5,20 +5,21 @@
   "version": "1",
   "identifier": "com.wetransfer.wetransfer-sketch",
   "compatibleVersion": "42",
-  "bundleVersion": 1,
+  "bundleVersion": 2,
   "icon": "icon.png",
   "commands": [
     {
-      "name": "Share selection via WeTransfer",
+      "name": "Share Selection",
       "identifier": "upload_selection",
+      "description": "Transfer selected artboards and/or pages via WeTransfer",
+      "icon": "icon.png",
       "shortcut": "cmd l",
       "script": "upload.js",
       "handler": "uploadSelection"
     }
   ],
   "menu": {
-    "title": "Share selection via WeTransfer",
-    "isRoot": true,
+    "title": "WeTransfer",
     "items": [
       "upload_selection"
     ]
