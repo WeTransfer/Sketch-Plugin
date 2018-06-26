@@ -1,4 +1,5 @@
-# The simplest way to send Sketch files around the world. Simply hit ⌘+L to share artboards or pages with a WeTransfer link
+# Turn artboards into a WeTransfer Link
+**The simplest way to send Sketch files around the world. <br /> Simply hit `⌘+L` to share artboards or pages with a WeTransfer link.**
 
 ### Instructions:
 Ready to share your big ideas? Install the WeTransfer plugin and choose from the following
