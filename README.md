@@ -16,7 +16,7 @@ Ready to share your big ideas? [Install](#installation) the WeTransfer plugin an
 ##### Menu bar
   - Select the artboards or pages you want to share
   - Go to “Plugins” in the menu bar
-  - Select “Share selection via WeTransfer”
+  - Select “WeTransfer” → “Share Selection”
   - Copy the link and share it with anyone
 
 ![Preview Gif](assets/export-200.gif)
