@@ -25,7 +25,7 @@ Ready to share your big ideas? [Install](#installation) the WeTransfer plugin an
 
 ### Installation
 #### Install with Sketch Runner
-With Sketch Runner, just go to the `install` command and search for `WeTransfer`. Runner allows you to manage plugins and do much more to speed up your workflow in Sketch. [Download Runner here](http://www.sketchrunner.com).
+With [Sketch Runner](http://www.sketchrunner.com), just go to the `install` command and search for `WeTransfer`.
 
 ![Sketch Runner Screenshot](assets/sketchrunner.png)
 
