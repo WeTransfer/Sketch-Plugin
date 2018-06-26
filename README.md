@@ -1,22 +1,41 @@
-# The simplest way to send Sketch files around the world. Simply hit ⌘+L to share artboards or pages with a WeTransfer link
+# Turn artboards into a WeTransfer Link
+**The simplest way to send Sketch files around the world. <br /> Simply hit `⌘+L` to share artboards or pages with a WeTransfer link.**
+
+![Banner](assets/banner.png)
+
+---
 
 ### Instructions:
-Ready to share your big ideas? Install the WeTransfer plugin and choose from the following
- * Shortcut
-   1) Select the artboards or pages you want to share
-   2) Hit `⌘+L`
-   3) Copy the link share it with anyone
-* Menu bar
-  1) Select the artboards or pages you want to share
-  2) Go to “Plugins” in the menu bar
-  3) Select “Share selection via WeTransfer”
-  4) Copy the link and share it with anyone
-  
+Ready to share your big ideas? [Install](#installation) the WeTransfer plugin and choose from the following:
+
+##### Shortcut
+   - Select the artboards or pages you want to share
+   - Hit `⌘+L`
+   - Copy the link share it with anyone
+
+##### Menu bar
+  - Select the artboards or pages you want to share
+  - Go to “Plugins” in the menu bar
+  - Select “WeTransfer” → “Share Selection”
+  - Copy the link and share it with anyone
+
+![Preview Gif](assets/export-200.gif)
+
+---
+
 ### Installation
-1) Download the [latest release](../../releases) of the WeTransfer plugin
-2) Double-click the zip file “wetransfer.sketchplugin.zip”
-3) Open up “wetransfer.sketchplugin”
-4) Start sharing
+#### Install with Sketch Runner
+With [Sketch Runner](http://www.sketchrunner.com), just go to the `install` command and search for `WeTransfer`.
+
+![Sketch Runner Screenshot](assets/sketchrunner.png)
+
+#### Manual installation
+- Download the [latest release](../../releases) of the WeTransfer plugin
+- Double-click the zip file “wetransfer.sketchplugin.zip”
+- Open up “wetransfer.sketchplugin”
+- Start sharing!
+
+---
 
 ### Contact:
 Feel free to send an email to sketch@wetransfer.com with any questions, comments or feedback
