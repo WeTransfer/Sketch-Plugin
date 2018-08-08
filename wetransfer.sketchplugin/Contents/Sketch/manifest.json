@@ -2,7 +2,7 @@
   "name": "WeTransfer",
   "description": "Share artboards and pages via WeTransfer",
   "author": "WeTransfer",
-  "version": "2",
+  "version": "3",
   "identifier": "com.wetransfer.wetransfer-sketch",
   "compatibleVersion": "42",
   "bundleVersion": 3,
