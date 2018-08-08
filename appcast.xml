@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>WeTransfer</title>
+    <link>https://raw.githubusercontent.com/WeTransfer/Sketch-Plugin/master/appcast.xml",</link>
+    <description>Share artboards and pages via WeTransfer</description>
+    <language>en</language>
+    <item>
+      <title>Version 1</title>
+      <description>
+        <![CDATA[
+            <ul>
+              <li>First release</li>
+            </ul>
+          ]]>
+      </description>
+      <enclosure url="https://github.com/WeTransfer/Sketch-Plugin/releases/download/v1.0/wetransfer.sketchplugin.zip" sparkle:version="1"/>
+    </item>
+    <item>
+      <title>Version 2</title>
+      <description>
+        <![CDATA[
+            <ul>
+              <li>Support Sketch Running</li>
+              <li>Improved appearance in menu</li>
+              <li>Added pizazz to README 🌈 ✨</li>
+            </ul>
+          ]]>
+      </description>
+      <enclosure url="https://github.com/WeTransfer/Sketch-Plugin/releases/download/untagged-df70bddd3375d678e949/wetransfer.sketchplugin.zip" sparkle:version="2"/>
+    </item>
+    <item>
+      <title>Version 3</title>
+      <description>
+        <![CDATA[
+            <ul>
+              <li>Minor bugfixes</li>
+            </ul>
+          ]]>
+      </description>
+      <enclosure url="https://github.com/WeTransfer/Sketch-Plugin/releases/download/v3.0/wetransfer.sketchplugin.zip" sparkle:version="3"/>
+    </item>
+  </channel>
+</rss>
