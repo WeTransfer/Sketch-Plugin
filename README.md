@@ -38,4 +38,4 @@ With [Sketch Runner](http://www.sketchrunner.com), just go to the `install` comm
 ---
 
 ### Contact:
-Feel free to send an email to sketch@wetransfer.com with any questions, comments or feedback
+Feel free to send an email to developers@wetransfer.com with any questions, comments or feedback
