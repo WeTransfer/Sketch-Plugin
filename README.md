@@ -1,3 +1,5 @@
+Archived: This project is no longer maintained and might not work anymore on the latest version of Sketch.
+
 # Turn artboards into a WeTransfer Link
 **The simplest way to send Sketch files around the world. <br /> Simply hit `⌘+L` to share artboards or pages with a WeTransfer link.**
 
